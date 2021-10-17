@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ConstrainLayout</string>
+    <string name="buenas_tardes">Buenas Tardes!</string>
+    <string name="imageview_usando_cadenas">ImageView usando Cadenas</string>
 </resources>
