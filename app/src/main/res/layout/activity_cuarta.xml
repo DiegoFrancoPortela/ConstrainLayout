@@ -38,7 +38,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="36dp"
-        android:text="Restricción según una guía"
+        android:text="@string/restricci_n_seg_n_una_gu_a"
         app:layout_constraintStart_toStartOf="@+id/imageView13"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -68,7 +68,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="148dp"
         android:layout_marginBottom="12dp"
-        android:text="Comienza la Barrier"
+        android:text="@string/comienza_la_barrier"
         app:layout_constraintBottom_toTopOf="@+id/imageView14"
         app:layout_constraintStart_toStartOf="parent" />
 
@@ -98,7 +98,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
         android:layout_marginTop="200dp"
-        android:text="Estas imágenes están debajo de la barrera"
+        android:text="@string/estas_im_genes_est_n_debajo_de_la_barrera"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
         app:layout_constraintTop_toBottomOf="@+id/imageView14" />
 

@@ -13,4 +13,7 @@
     <string name="anterior3_boton">Anterior</string>
     <string name="siguiente_3">Siguiente</string>
     <string name="anterior_4">Anterior</string>
+    <string name="restricci_n_seg_n_una_gu_a">Restricción según una guía</string>
+    <string name="comienza_la_barrier">Comienza la Barrier</string>
+    <string name="estas_im_genes_est_n_debajo_de_la_barrera">Estas imágenes están debajo de la barrera</string>
 </resources>
