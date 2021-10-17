@@ -6,4 +6,8 @@
     <string name="cambiointerfaz">Siguiente</string>
     <string name="siguiente_2">Siguiente</string>
     <string name="anterior_3">Anterior</string>
+    <string name="figura_10_restricci_n_de_alineaci_n_horizontal_con_desplazamiento">Figura 10, Restricción de alineación horizontal con desplazamiento</string>
+    <string name="figura_9_restricci_n_de_alineaci_n_horizontal">Figura 9, Restricción de alineación horizontal</string>
+    <string name="figura_7_restricci_n_horizontal">Figura 7, Restricción Horizontal</string>
+    <string name="figura_8_posici_n_de_orden">Figura 8, Posición de Orden</string>
 </resources>
