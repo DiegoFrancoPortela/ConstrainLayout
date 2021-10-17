@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:onClick="sendMessage"
     tools:context=".MainActivity">
 
     <ImageView
@@ -68,9 +69,9 @@
         app:layout_constraintCircleAngle="45"
         app:layout_constraintCircleRadius="130dp"
         app:srcCompat="@mipmap/ic_launcher"
+        tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="185dp"
-        tools:layout_editor_absoluteY="226dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteY="226dp" />
 
     <TextView
         android:id="@+id/textView"
@@ -82,5 +83,16 @@
         app:layout_constraintHorizontal_bias="0.521"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/A" />
+
+    <Button
+        android:id="@+id/cambio_Interfaz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:text="@string/cambiointerfaz"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
