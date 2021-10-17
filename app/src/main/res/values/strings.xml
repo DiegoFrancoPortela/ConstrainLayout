@@ -4,4 +4,6 @@
     <string name="imageview_usando_cadenas">ImageView usando Cadenas</string>
     <string name="circle_layout">Circle Layout</string>
     <string name="cambiointerfaz">Siguiente</string>
+    <string name="siguiente_2">Siguiente</string>
+    <string name="anterior_3">Anterior</string>
 </resources>
