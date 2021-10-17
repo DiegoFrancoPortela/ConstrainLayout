@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ConstrainLayout">
         <activity
+            android:name=".CuartaActivity"
+            android:exported="false" />
+        <activity
             android:name=".TerceraActivity"
             android:exported="false" />
         <activity

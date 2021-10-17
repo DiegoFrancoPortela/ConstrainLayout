@@ -10,6 +10,12 @@ class TerceraActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_tercera)
 
+        val siguienteActivity: Button = findViewById(R.id.boton_siguiente3)
+        siguienteActivity.setOnClickListener() {
+            val intent = Intent(this, CuartaActivity::class.java)
+            startActivity(intent)
+        }
+
         val anteriorActivity: Button = findViewById(R.id.boton_anterior3)
         anteriorActivity.setOnClickListener() {
             val intent = Intent(this, SegundaActivity::class.java)
